@@ -5,3 +5,4 @@ pillow
 matplotlib
 TensorFlow_datasets
 pytorch
+flask
