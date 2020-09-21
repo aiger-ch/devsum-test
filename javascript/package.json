@@ -23,7 +23,8 @@
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^1.14.1",
+    "foundation": "^0.1.20"
   },
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -38,6 +39,7 @@
     "react-dom": "^0.14.7",
     "react-tap-event-plugin": "^0.2.2",
     "resolve-url-loader": "^1.4.3",
+    "materialize-css": "^1.0.0",
     "tether": "^1.2.0",
     "url-loader": "^0.5.7"
   }
